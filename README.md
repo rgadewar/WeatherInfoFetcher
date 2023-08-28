@@ -1,4 +1,4 @@
-# challenge6
+# WeatherInfoFetcher
 ## Description
 In this section, I have used all API calls and used Jquery concepts. In this project, we make api call to openweathermap to get current weather and 5-day forcast information.
 
